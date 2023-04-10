@@ -46,7 +46,7 @@ Algumas das principais vantagens do Cypress são:
 
 ## Desvantagens do Cypress
 
-- Suporte limitado a navegadores: o Cypress só é compatível com o Google Chrome e o Microsoft Edge. Isso pode ser uma limitação para projetos que precisam suportar outros navegadores;
+- Suporte limitado a navegadores: o Cypress só é compatível com o Google Chrome e o Firefox. Isso pode ser uma limitação para projetos que precisam suportar outros navegadores;
 - Requer conhecimento em JavaScript: o Cypress é escrito em JavaScript, o que significa que os usuários precisam ter conhecimento básico em programação para poder utilizá-lo efetivamente;
 - Dificuldades em testar aplicativos mobile: o Cypress não é adequado para testar aplicativos mobile, pois ele é projetado especificamente para testar aplicativos web;
 - Testes lentos em alguns casos: o Cypress pode ser mais lento em alguns casos em comparação com outras ferramentas de teste devido à forma como ele executa os testes dentro do navegador.
