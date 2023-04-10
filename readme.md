@@ -20,7 +20,7 @@ Existem diversos tipos de testes de software, cada um com seu propósito e objet
 - Testes de desempenho: testes que avaliam o desempenho do software em condições de carga e estresse;
 - Testes de segurança: testes que avaliam a segurança do software e se ele está protegido contra ameaças.
 
-### O que é o Cypress?
+# O que é o Cypress?
 
 O Cypress é uma ferramenta de teste de front-end que permite aos desenvolvedores escrever testes de forma rápida e fácil. Ele usa uma sintaxe simples e intuitiva que torna a escrita de testes mais eficiente.
 Além disso, o Cypress oferece recursos avançados, como a capacidade de depurar testes em tempo real e a visualização de testes em execução. Isso torna o processo de teste mais fácil e eficiente para os desenvolvedores.
